@@ -1,0 +1,36 @@
+/* src/SecondFooter.css */
+
+.second-footer {
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .second-footer-left,
+  .second-footer-middle,
+  .second-footer-right {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .second-footer-left p,
+  .second-footer-middle p,
+  .second-footer-right p {
+    margin: 5px 0;
+  }
+  
+  .social-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+  
+  .second-footer-right p {
+    display: flex;
+    align-items: center;
+  }
+  
