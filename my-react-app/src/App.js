@@ -1,6 +1,6 @@
 // src/App.js
 import React, { useState ,useEffect} from 'react';
-import Header from './header';
+import Header from './Header';
 import './App.css';
 import Footer from './Footer';
 import SecondFooter from './SecondFooter'; 
